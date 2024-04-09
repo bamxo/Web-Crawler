@@ -1,0 +1,24 @@
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+
+# Output Files
+output*.txt
+
+# Python
+*.py
+*.pyc
+
+# Java
+*.java
+*.class
+
+# Ignore system or IDE specific files and directories
+.vscode
+.idea
+
+# Ignore any build or temporary directories
+build/
+temp/
